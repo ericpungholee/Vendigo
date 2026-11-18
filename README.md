@@ -1,5 +1,8 @@
 # Vendigo
 
+## Hackathon Version
+[![Watch the demo]()](https://www.youtube.com/shorts/w0byS2mjO38)
+
 **Commerce that comes to you.** A mobile customer shop, a live retail dashboard,
 and Vendi's ElevenLabs voice. The seven-product catalog follows the supplied JSON
 list, with matching SVG illustrations, the existing white/sky-blue styles, and
